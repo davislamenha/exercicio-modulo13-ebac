@@ -4,9 +4,9 @@
 
 ### MODULO-13
 
-> Exercício para estudo e prática com SASS.
+> Exercício para estudo e prática com Bootstrap 5.
 
-- O objetivo foi criar uma landing page com Bootstrap.
+- O objetivo foi criar uma landing page com Bootstrap 5.
 
 ## Meta
 
